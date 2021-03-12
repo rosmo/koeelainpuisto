@@ -13,6 +13,7 @@ for file_name in sys.argv[2:len(sys.argv)]:
     file_name_s = os.path.splitext(file_name)
     file_name_ya = os.path.basename(file_name_s[0])
     print('Base name: %s' % (file_name_ya))
+    
     audio = MP3(file_name)
     audio_length = audio.info.length
     print('Audio length: %d seconds' % (audio_length))

@@ -1,0 +1,14 @@
+pyAudioAnalysis~=0.3.6
+mutagen~=1.45.1
+scipy~=1.6.1
+scikit-learn~=0.24.1
+sklearn~=0.0.0
+hmmlearn~=0.2.5
+matplotlib~=3.3.4
+eyed3~=0.9.6
+pydub~=0.24.1
+tqdm~=4.58.0
+plotly~=4.14.3
+google-cloud-speech~=2.1.0
+google-cloud-storage~=1.36.1
+requests~=2.22.0
